@@ -1,0 +1,92 @@
+body {background-color: mediumpurple; text-align: center; font-size: 20px;}
+header{background-color: greenyellow;
+    width: 1000px;
+    padding: 30px;
+    border: solid 2px white;
+    margin: 0 auto;
+    margin-bottom: 60px;
+
+}
+
+nav{background-color: white}
+
+#storBox{
+    background-color: darkred;
+    border: solid 4px white;
+    float: left;
+    width: 500px;
+    height: 600px;
+    margin-left: 195px;
+}
+
+#header2{
+background-color: greenyellow;
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    margin-top: 20px;
+}
+#art{
+    background-color: cornflowerblue;
+    text-align: center;
+    width: 400px;
+    height: 385px;
+    border: solid 4px white;
+    margin: 0 auto;
+
+}
+#header3{background-color: greenyellow;
+    text-align: center;
+    width: 325px;
+    height: 15px;
+    padding: 10px;
+    margin-top: 5px;
+
+}
+
+#p1{
+    background-color: orange;
+    text-align: center;
+    width: 340px;
+    height: 50px;
+    margin-left: 25px;
+    border: solid 2px mediumvioletred;
+    margin-top: -35px;
+
+}
+
+#p2{
+    background-color: orange;
+    text-align: center;
+    width: 170px;
+    height: 35px;
+    margin-left: 25px;
+    border: solid 2px mediumvioletred;
+    margin-top: -15px;
+    float: left;
+}
+
+aside{
+    background-color: white;
+    text-align: center;
+    width: 170px;
+    height: 35px;
+    margin-left: 25px;
+    border: solid 2px mediumvioletred;
+    margin-top: -15px;
+    float: left;
+}
+
+#lilleBox
+{
+    background-color: darkred;
+    border: solid 4px white;
+    float: left;
+    width: 400px;
+    height: 600px;
+    margin-left: 143px;
+    margin-right: 200px;
+}
+
+
